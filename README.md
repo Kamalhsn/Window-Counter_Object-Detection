@@ -1,4 +1,9 @@
-# keras-frcnn
+# Window-Counter_Object-Detection
+Implemeneting a web application using neural network concepts
+
+Project Description:
+The aim is to automate the stocktaking of buildings. This is needed to initiate new projects or make the calculation of facility management services. A tool that is easy to handle and everyone carries around is the smart phone. So there shall be a web application that takes pictures and collects meta data of the picture as an user input.
+
 Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.
 cloned from https://github.com/yhenon/keras-frcnn/
 
