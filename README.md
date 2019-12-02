@@ -12,7 +12,8 @@ The aim is to automate the stocktaking of buildings. This is needed to initiate 
 ![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Architecture.jpg)
 
 #### Sequence Diagram
-![]/https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Sequence%20diagram.jpg)
+
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Sequence%20diagram.jpg)
 
 
 
