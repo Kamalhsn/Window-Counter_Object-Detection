@@ -9,7 +9,7 @@ The aim is to automate the stocktaking of buildings. This is needed to initiate 
 
 #### Architecture
 
-
+![Architecture](doc_img/Architectute.jpg)
 
 
 
