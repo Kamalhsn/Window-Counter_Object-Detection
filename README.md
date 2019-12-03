@@ -91,7 +91,6 @@ The aim is to automate the stocktaking of buildings. This is needed to initiate 
 #### R-CNN
 
 ![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/R-CNN.png)
-
 - Classify proposals into one of the classes
 - Adjust the bounding box
 
@@ -102,6 +101,7 @@ The aim is to automate the stocktaking of buildings. This is needed to initiate 
 Generated Anchor boxes
 - Classification (Forground or Background)        
 - Regression(BBox fitted/not)
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/IOU.png)
 
 #### Training Detection Network(R-CNN)
 
@@ -119,7 +119,14 @@ Loss (0-1) functions: 
 
 #### Training Results
 
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Results_1.png)
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Results_2.png)
+
 #### Testing Results
+
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Test_image.png)
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Test_image_result.png)
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Test_results.png)
 
 ### Back-end
 
@@ -130,6 +137,9 @@ Loss (0-1) functions: 
 - Rest API
 
 ### Database Design
+
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Database%20design.png)
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Storing%20image%20in%20DB.png)
 
 
 
