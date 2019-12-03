@@ -67,10 +67,15 @@ The aim is to automate the stocktaking of buildings. This is needed to initiate 
 
 #### Network flow
 
+![Faster R-NN](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Faster%20R-CNN.jpg)
 
 #### Pre-trained CNN
 
+![VGG_16](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/VGG-16.png)
+
 #### Regional Proposal Network
+
+![RPN](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/RPN.png)
 
 - Anchor scaling : 128, 256, 512
 - It deploys 9 anchor boxes: 3 different scales at 3 different aspect ratio. 
@@ -78,10 +83,14 @@ The aim is to automate the stocktaking of buildings. This is needed to initiate 
 
 #### ROI Pooling
 
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/ROI%20pooling.png)
+
 - Output of RPN is object proposals with no class
 - Problem is classifying these bounding boxes
 
 #### R-CNN
+
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/R-CNN.png)
 
 - Classify proposals into one of the classes
 - Adjust the bounding box
