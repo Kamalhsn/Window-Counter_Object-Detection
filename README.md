@@ -39,7 +39,7 @@ The aim is to automate the stocktaking of buildings. This is needed to initiate 
 
 #### Web UI functionality
 
-
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Web%20UI%20design_1.png)
 
 ### Data Preperation
 
@@ -55,14 +55,18 @@ The aim is to automate the stocktaking of buildings. This is needed to initiate 
 
 - Resolution: 800 * 600
 
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/Resized%20image.png)
 
 - Labelling tool: LabelImg
 
+![](https://github.com/Kamalhsn/Window-Counter_Object-Detection/blob/master/doc_img/labelling.png)
 
 - Labels: {image path, xmin, xmax, ymin, ymax, object_class}
+
 ### Model Development
 
 #### Network flow
+
 
 #### Pre-trained CNN
 
